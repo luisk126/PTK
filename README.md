@@ -1,0 +1,2 @@
+# PruebaTecnicaKonecta
+Prueba de Automatización
